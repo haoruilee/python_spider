@@ -3,7 +3,7 @@
 爬取西北大学近四年高考成绩（取最低分）
 # How to use
 - Main_NWU_spider.py是主程序，将把爬取到的成绩存储在csv中
-
+- test_and_beautifulsoup.ipynb是测试程序，包含了小的框架
 # Requirements
 - Python 3+
 - requests
