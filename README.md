@@ -1,6 +1,6 @@
-# python_spider
 
 ![python_spider](https://socialify.git.ci/haoruilee/python_spider/image?font=KoHo&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
+# python_spider
 🕷高考成绩爬虫
 爬取西北大学近四年高考成绩
 
